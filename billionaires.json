@@ -1,5 +1,4 @@
-{
-  "billionaires":[
+[
   {
   "rank" : 1,
   "finalWorth" : 211000,
@@ -95040,6 +95039,5 @@
   "population_country" : 108116615,
   "latitude_country" : 12.879721,
   "longitude_country" : 121.774017
-} ]
-
-}
+  } 
+]
